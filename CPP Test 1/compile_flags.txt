@@ -1,0 +1,4 @@
+-I"C:\Users\Fidel\Documents\CPP Test\CPP Test 1"
+-DNDEBUG
+-target
+x86_64-pc-windows-gnu
